@@ -1,0 +1,127 @@
+.vegimage{
+   color: white; 
+   cursor: pointer;
+   margin-left: 10px;
+}
+.main{
+display: inline-flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+margin-left: 3.2rem;
+}
+.pictures{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+.main-image:hover{
+   transform: scale(1.3);
+}
+.main-image{
+   transition: transform 0.3s ease
+   
+}
+
+
+
+.veg_title{
+   background-color: #cfa854;
+   padding-left: 1rem;
+   width: 8rem;
+   margin-left: 5rem;
+  height: 2rem;
+  padding-top:0.2rem;
+  border-radius: 1rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.round{
+   display: flex;
+   justify-content: center;
+   align-content: space-between;
+   flex-wrap: wrap;
+
+   
+}
+.main-round:hover{
+   transform: scale(1.3);
+
+
+}
+.main-round{
+   transition: transform 0.3s ease
+}
+.round-soup,.round-salads,.round-vegan,.round-instant,.round-healthy,.round-veg,.round-dinner,.round-nonveg{
+   border-radius: 50%;
+   width: 8rem;
+   margin-left: 2rem;
+   margin-top: 3rem;
+   cursor: pointer;
+}
+
+.round-veg-title,.round-instant-title{
+   margin-left: 3rem;
+}
+.round-vegan-title,
+.round-salads-title,.round-soup-title,.round-healthy-title,.round-dinner-title,.round-non-title
+{
+   margin-left: 4rem;
+}
+.search-tag{
+   width: 90%;
+   height: 4rem;
+   margin-top: 3rem;
+   margin-left: 3rem;
+   display: flex;
+   display: inline;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+.recipes-btn{
+   display: flex;
+   justify-content: center;
+   width: 90%;
+   margin-top: 1rem;
+   margin-left: 3rem;
+}
+.allrecipes{
+   height: 4rem;
+   width: 90%;
+   background-color:rgb(107, 44, 80);
+   border: 0;
+   color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+   text-align: center;
+   letter-spacing: 0.5rem;
+  
+  
+  
+}
+.allrecipes:hover{
+   background-color: gray;
+  transition: 1s;
+  font-weight: 700;
+  text-align: center;
+   
+  width: 20%;
+}
+.search{
+   position: relative;
+   display: inline;
+   justify-content: center;
+   align-content: center;
+}
+.search-icon{
+   position: absolute;
+   top: 50%;
+   left: 9rem;
+   transform: translateY(-50%);
+   color:rgb(107, 44, 80);
+   display: flex;
+   display: inline;
+}

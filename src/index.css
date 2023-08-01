@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face{
+  font-family:"Light";
+  src: local("AlexBrush-Regular"),
+  url("./Fonts/AlexBrush-Regular.ttf") format("truetype")
+}
+@font-face{
+  font-family: "Dark";
+  src:local("WinterSong-owRGB"),
+  url("./Fonts/WinterSong-owRGB.ttf") format("truetype")
+}

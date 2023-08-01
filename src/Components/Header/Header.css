@@ -1,0 +1,60 @@
+.header{
+    height: auto;
+    background-color: white;
+    width: 100%;
+
+
+
+   
+   
+  
+    
+}
+
+    
+
+
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    margin-right: rem;
+    word-spacing: 3rem;
+    
+   
+
+   
+    
+   
+}
+.navbar-light .navbar-brand {
+    color: rgb(107, 44, 80);
+    font-family: 'light';
+    font-size: 2rem;
+    word-spacing: 1rem;
+    margin-top: 2rem;
+}
+.navbar-light .navbar-brand:hover{
+    color:rgb(107, 44, 80);
+
+}
+.collapse-navbar-collapse{
+  margin-left: 30rem;
+}
+
+
+
+
+.navbar .nav-link.search{
+    color: rgb(107, 44, 80);
+    
+  
+    
+
+
+    
+    
+}.navbar .nav-link.search:hover{
+    color: rgb(107, 44, 80);
+}
+.hr{
+    color: black;
+}

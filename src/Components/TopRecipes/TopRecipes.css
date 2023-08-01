@@ -1,0 +1,71 @@
+.top-titles{
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+
+
+}
+.trophy{
+color: goldenrod;
+font-size: 1.6rem;
+
+
+
+}
+.top-title{
+    display: inline;
+    color: rgb(144,44,80);
+    font-family: 'Mate SC', serif;
+
+}
+.top-line1{
+    display: flex;
+    justify-content: center;
+    font-size: 1.3rem;
+    color: grey
+
+}
+.top-line2{
+    display: flex;
+    justify-content: center;
+    font-size: 1.3rem;
+    color: gray;
+}
+.total-recipes{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+}
+.recipe{
+    height: 6rem;
+    width:26rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+}
+.recipe-image{
+    height: 6rem;
+}
+.recipe-caption{
+    font-weight: 800;
+   font-family: 'Mate SC', serif;
+   line-height: 1rem;
+   margin-top: 0.5rem;
+   margin-left: 0.5rem;
+}
+.star{
+    color: goldenrod;
+    margin-top: -2rem;
+    margin-left: 0.5rem;
+}
+.review{
+    font-family: 'Mate SC', serif;
+    font-size: 0.7rem;
+    font-weight: 500;
+    margin-top: -0.5rem;
+    margin-left: 0.5rem;
+}

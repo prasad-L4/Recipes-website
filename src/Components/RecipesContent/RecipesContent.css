@@ -1,0 +1,55 @@
+.reci-background{
+    background-color: rgb(104, 44, 88);
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -1rem;
+
+}
+.reci-titles{
+    line-height: 2rem;
+    color: white;
+
+}
+.reci-title{
+    font-size: 4rem;
+    font-family: 'Mate SC', serif;
+    margin-top: 3rem;
+ 
+}
+.reci-lines{
+    font-size: 1.5rem;
+    line-height: 3rem;
+    margin-top: 2rem;
+    color: rgb(213, 215, 216);;
+
+}
+.reci-search{
+    display: flex;
+    justify-content: center;
+   flex-wrap: wrap;
+   margin-top: -1rem;
+
+}
+.reci-searchtag{
+    width: 90%;
+    height: 4rem;
+    padding-left: 4rem;
+    display: flex;
+    font-size: 1.5rem;
+    font-family: 'Mate SC', serif;
+   
+  
+
+}
+.reci-searchicon{
+   display: flex;
+   justify-content: center;
+   margin-left: -3rem;
+   margin-top: 1.5rem;
+   color: rgb(104,44,80);
+   cursor: pointer;
+   
+}    

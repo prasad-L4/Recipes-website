@@ -1,0 +1,39 @@
+.abt-background{
+  
+    display: flex;
+    height: auto;
+ margin-top: -1rem;
+background-color:#C5C5C5;
+ 
+
+  
+}
+.abt-lines{
+    display:inline;
+    margin-left: 2rem;
+
+    
+}
+.abt-names{
+    display: inline;
+    display: flex;
+    
+}
+.abt-name{
+    margin-left: 1rem;
+    font-family: 'Dark';
+}.abt-me{ 
+    font-family: 'Mate SC', serif;
+    font-size: 4rem;
+    color: rgb(107,44,80);
+
+}
+.abt-line1{
+    font-family: 'Mate SC', serif;
+ 
+}
+.abt-line2{
+    line-height: 2rem;
+    color: rgb(105, 106, 107);
+
+}

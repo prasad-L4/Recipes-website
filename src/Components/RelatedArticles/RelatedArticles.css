@@ -1,0 +1,133 @@
+.title{
+    color: rgb(107,44,80);
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 5.5rem;
+
+}
+.image{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  margin-left: rem;
+
+}
+
+.head{
+  display: flex;
+  justify-content: center;
+  margin-left: 5rem;
+  
+
+}
+.head-1{
+  margin-top: 3rem;
+  font-family: Bitter,Georgia,Cambria,Times New Roman,Times,serif;
+}
+.first-date{
+ font-family:Arvo,Georgia,Cambria,Times New Roman,Times,serif ;
+ color: grey;
+ 
+}
+.intro{
+  color: grey;
+ margin-left: 3rem;
+  font-family:Bitter,Georgia,Cambria,Times New Roman,Times,serif;
+
+}
+.intro{
+
+  color: grey;
+  margin-left: 6rem;
+   font-family:Bitter,Georgia,Cambria,Times New Roman,Times,serif;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+ 
+}
+.viewmore-btn{
+  height: 3rem;
+  width: 90%;
+  background-color:rgb(107, 44, 80);
+  border: 0;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  text-align: center;
+  letter-spacing: 0.5rem;
+margin-left: 4rem;}
+.viewmore-btn:hover{
+  background-color: grey;
+transition: .5S;
+}
+.blog{
+  width: 100%;
+  height: auto;
+  display: flex;
+flex-wrap: wrap;
+  margin-top: 2rem;
+  justify-content: center;
+  
+
+}
+.blog-content{
+  
+  width:20rem;
+  background-color:  #E4E5E8;
+  height: 25rem;
+  width: 20rem;
+  margin-left: 5.5rem;
+
+}
+.textname{
+  text-align: center;
+  padding-top: 2rem;
+  font-family: 'Mate SC', serif;
+  font-weight: 1000;
+}
+.textwelcome{
+  font-family: "Dark";
+  text-align: center;
+  font-weight: 1000;
+  font-size: 2rem;
+  color: #525252;
+
+
+}
+.text{
+  text-align: center;
+  line-height: 2;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  display: flex;
+
+
+}
+
+.image1{
+
+  width: 20rem;
+  height: 25rem;
+  margin-left: 5.5rem;
+
+
+
+
+  
+}
+.image2{
+
+  width: 20rem;
+  height: 25rem;
+  margin-left: 5.5rem;
+
+}
+
+
+
+
+
+
