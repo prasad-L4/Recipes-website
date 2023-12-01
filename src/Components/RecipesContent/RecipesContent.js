@@ -10,7 +10,7 @@ function RecipesContent() {
             <p className='reci-title'>
                 Recipes
             </p>
-            <p className="reci-lines">We’ve organized these recipes every way we could think of so you don't have to! <br /> Dietary restrictions, weeknight dinners, meal prep recipes, some of our most tried- <br />and-true… no matter how you browse, we’re sure you’ll find just what you were <br />looking for.</p>
+            <p className="reci-lines">We’ve organized these recipes every way we could think of so you don't have to! <br /> Dietary restrictions, weeknight dinners, meal prep recipes, some of our most tried-<br/>and-true… no matter how you browse, we’re sure you’ll find just what you were <br/>looking for.</p>
 
           </div>
             

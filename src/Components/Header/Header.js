@@ -18,7 +18,7 @@ function Header() {
       <Navbar bg="white" >
           <Container>
             <Navbar.Brand className="title" >Sprinkle Of Flavor</Navbar.Brand>
-            <Nav >
+            <Nav>
               
               <Nav.Link className="home" onClick={()=>{navigate("/")}}>HOME</Nav.Link>
               <Nav.Link className="about"onClick={()=>{navigate("/about")}}>ABOUT</Nav.Link>

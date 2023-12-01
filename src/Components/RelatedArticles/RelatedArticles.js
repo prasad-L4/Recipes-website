@@ -3,7 +3,7 @@ import { lists } from "./RelatedArticlesList";
 
 function RelatedArticles() {
   return (
- <div>
+ <div className="related-main">
     
       {lists.map((list)=>(
         <div>
@@ -61,6 +61,7 @@ function RelatedArticles() {
            
            
             </div>
+            </div>
             <div className="images">
             <img
               className="image2"
@@ -68,7 +69,7 @@ function RelatedArticles() {
             />
             </div>
           
-        </div>
+        
       </section>
       
     </div>

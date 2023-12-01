@@ -13,7 +13,6 @@
 
     
 
-
 .navbar-light .navbar-nav .nav-link{
     color: black;
     margin-right: rem;
@@ -45,7 +44,8 @@
 
 .navbar .nav-link.search{
     color: rgb(107, 44, 80);
-    
+
+margin-left: 1rem;
   
     
 
@@ -57,4 +57,9 @@
 }
 .hr{
     color: black;
+}
+@media(max-width:720px){
+    .nav-link{
+        display: none;
+    }
 }

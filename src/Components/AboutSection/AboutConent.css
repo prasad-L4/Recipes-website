@@ -1,18 +1,25 @@
 .abt-background{
-  
     display: flex;
-    height: auto;
+    width: 100%;
  margin-top: -1rem;
 background-color:#C5C5C5;
+
+
  
 
   
 }
+.abt-image{
+    width: 50%;
+}
 .abt-lines{
     display:inline;
     margin-left: 2rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 
-    
 }
 .abt-names{
     display: inline;
@@ -35,5 +42,16 @@ background-color:#C5C5C5;
 .abt-line2{
     line-height: 2rem;
     color: rgb(105, 106, 107);
+ 
 
+}
+@media(max-width:895px){
+   
+        .abt-background{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+
+        }
+      
 }

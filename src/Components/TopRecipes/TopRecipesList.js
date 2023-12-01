@@ -2,7 +2,7 @@ import { BsStarFill, BsStarHalf } from "react-icons/bs";
 export const recipeslist=[
     {
         image:"https://pinchofyum.com/wp-content/uploads/Chocolate-Chip-Cookies-800x800.jpg",
-        caption:'    The Best Soft Chocolate <br /> Chip Cookies',
+        caption:'    The Best Soft Chocolate  Chip Cookies',
         star: (
             <>
               <BsStarFill />
@@ -44,7 +44,7 @@ export const recipeslist=[
     },
     {
         image:"https://pinchofyum.com/wp-content/uploads/Baked-Chicken-Meatball-Feature-1-960x960.jpg",
-        caption:'    Best Anytime Baked <br />Chicken Meatballs',
+        caption:'    Best Anytime Baked Chicken Meatballs',
         star: (
             <>
               <BsStarFill />
@@ -58,7 +58,7 @@ export const recipeslist=[
     },
     {
         image:"https://pinchofyum.com/wp-content/uploads/Chicken-Tinga-Tacos-6-800x800.jpg",
-        caption:'  The Best Chicken Tinga <br />Tacos',
+        caption:'  The Best Chicken Tinga Tacos',
         star: (
             <>
               <BsStarFill />
@@ -72,7 +72,7 @@ export const recipeslist=[
     },
     {
         image:"https://pinchofyum.com/wp-content/uploads/Crockpot-Lentil-Soup-3-Homepage-800x800.jpg",
-        caption:'    The Best Detox Crockpot <br /> Lentil Soup',
+        caption:'    The Best Detox Crockpot Lentil Soup',
         star: (
             <>
               <BsStarFill />
@@ -114,7 +114,7 @@ export const recipeslist=[
     },
     {
         image:"https://pinchofyum.com/wp-content/uploads/Taking-a-Bite-of-Blueberry-Pancakes-800x800.jpg",
-        caption:'   Fluffiest Blueberry <br /> Pancakes',
+        caption:'   Fluffiest Blueberry  Pancakes',
         star: (
             <>
               <BsStarFill />

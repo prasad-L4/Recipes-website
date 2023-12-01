@@ -6,19 +6,27 @@
     margin-left: 5.5rem;
 
 }
+.related-main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .image{
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 3rem;
-  margin-left: rem;
+ 
 
 }
 
 .head{
   display: flex;
   justify-content: center;
-  margin-left: 5rem;
+  text-align: center;
+  text-align: center;
+
   
 
 }
@@ -33,14 +41,14 @@
 }
 .intro{
   color: grey;
- margin-left: 3rem;
+
   font-family:Bitter,Georgia,Cambria,Times New Roman,Times,serif;
 
 }
 .intro{
 
   color: grey;
-  margin-left: 6rem;
+
    font-family:Bitter,Georgia,Cambria,Times New Roman,Times,serif;
    display: flex;
    align-items: center;
@@ -58,7 +66,7 @@
 
   text-align: center;
   letter-spacing: 0.5rem;
-margin-left: 4rem;}
+}
 .viewmore-btn:hover{
   background-color: grey;
 transition: .5S;
@@ -70,6 +78,7 @@ transition: .5S;
 flex-wrap: wrap;
   margin-top: 2rem;
   justify-content: center;
+
   
 
 }
@@ -79,7 +88,7 @@ flex-wrap: wrap;
   background-color:  #E4E5E8;
   height: 25rem;
   width: 20rem;
-  margin-left: 5.5rem;
+ 
 
 }
 .textname{
@@ -106,12 +115,21 @@ flex-wrap: wrap;
 
 
 }
+.images{
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
 
 .image1{
 
   width: 20rem;
   height: 25rem;
-  margin-left: 5.5rem;
+
+
 
 
 
@@ -122,7 +140,8 @@ flex-wrap: wrap;
 
   width: 20rem;
   height: 25rem;
-  margin-left: 5.5rem;
+  margin-top: 2rem;
+
 
 }
 
